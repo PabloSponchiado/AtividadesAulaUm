@@ -1,6 +1,2 @@
 node_modules
-.gitignore
-atividade1.js
-atividade2.js
-atividade3.js
-atividade4.js
+*.js
